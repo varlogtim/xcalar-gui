@@ -3,7 +3,7 @@
 	url = https://github.com/AzureAD/microsoft-authentication-library-for-js.git
 [submodule "ts/xd_idl"]
 	path = ts/xd_idl
-	url = ssh://gerrit.int.xcalar.com:29418/xcalar/xcalar-idl-gui
+	url = ./xcalar-idl-gui
 [submodule "3rd/wetty"]
 	path = 3rd/wetty
-	url = ssh://gerrit.int.xcalar.com:29418/forks/wetty.git
+	url = ./wetty
